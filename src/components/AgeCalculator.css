@@ -1,0 +1,8 @@
+.calculate-button {
+    background-color: blue;
+    color: white; 
+    border: 2px; 
+    border-color: black;
+    padding: 5px 20px; 
+    cursor: pointer;
+  }
